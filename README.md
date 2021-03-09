@@ -1,4 +1,8 @@
-### Hi there 👋
+### it's Ahmed Ali Elsayed
+- 😄 Pronouns: Zahran
+- 👼 I’m currently a software engineering student in Faculty Of Engineering Alexandria University
+- 👨🏻‍💻 Coding is my hobby
+- 🚶‍♂️ Walking is daily activity
 
 <!--
 **AhmedZahRan7/AhmedZahRan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
