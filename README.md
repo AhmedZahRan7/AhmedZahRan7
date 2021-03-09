@@ -3,7 +3,8 @@
 - 👼 I’m currently a software engineering student in Faculty Of Engineering Alexandria University
 - 👨🏻‍💻 Coding is my hobby
 - 🚶‍♂️ Walking is daily activity
-
+- 📫 How to reach me: Ahmed.mimo720@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/ahmed-ali-5073071ab/ 
 <!--
 **AhmedZahRan7/AhmedZahRan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
