@@ -1,6 +1,6 @@
-<!--
 ### it's Ahmed Ali Elsayed
-- 😄 Pronouns: Zahran
+## call me "Zahran"
+<!--
 - 👼 I’m currently a software engineering student in Faculty Of Engineering Alexandria University
 - 👨🏻‍💻 Coding is my hobby
 - 🚶‍♂️ Walking is daily activity
